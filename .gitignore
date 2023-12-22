@@ -167,3 +167,5 @@ results/figures/*
 # Keep .gitkeep in results folders
 !results/data/.gitkeep
 !results/figures/.gitkeep
+
+.vscode
