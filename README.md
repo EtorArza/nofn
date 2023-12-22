@@ -38,8 +38,7 @@ To run the demo:
 ```bash
 source venv/bin/activate
 python src/demo.py
-'''
-
+````
 
 
 
