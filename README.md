@@ -29,8 +29,11 @@ pip install "gymnasium[classic-control]"
 
 Demo is available in the file `src/demo.py`. The demo optimizes a forward pass nn of fixed size with cma-es. cma_strat implements the classes in interfaces.py with CMA-ES on a fixed network. 
 
-TODO: add another file neuroevolution_strat.py that also implements the methods described on interfaces.py, but uses neuroevolution instead.
-
+TODO:
+- [ ] Add another file neuroevolution_strat.py that also implements the methods described on interfaces.py, but uses neuroevolution instead.
+- [ ] Add more RL frameworks besides cartpole.
+- [ ] Normalize inputs / outputs in environments.
+- [ ] Add source to plot the results.
 
 
 To run the demo:
